@@ -8,17 +8,17 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: http://icastillo3.github.io
+url: https://icastillo3.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /Bitumen-Bitch
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: 
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV Bitumen 2.0
+title: 'CollectionBuilder CSV Bitumen 2.0'
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: 
 # description appears in meta tags and other locations
