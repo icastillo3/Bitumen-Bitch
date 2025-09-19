@@ -1,6 +1,6 @@
 objectid,parentid,title,creator,date,date-is-approximate?,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
-fig_001,,Official Foundation Figurine,,,,,,,,,Amrhein 2021,,Image;StillImage,image/png,,,,image,/objects/fig_001.png,/objects/fig_001.png,/objects/fig_001.png,,
-fig_002,,Burial assemblage,,,,,,,,,Postgate 1997,,,,,,,,,,,,
+fig_001,,Official Foundation Figurine,,,,,genie; foundation figurine,,,,Amrhein 2021,,Image;StillImage,image/png,,,,image,/objects/fig_001.png,/objects/fig_001.png,/objects/fig_001.png,,
+fig_002,,Burial assemblage,,,,,,,,,Postgate 1997,,,,,,,compound_object,,,,,
 fig_002a,fig_002,Burial assemblage photo,,,,,,,,,Postgate 1997,,Image;StillImage,image/png,,,,image,/objects/fig_002a.png,/objects/fig_002a.png,/objects/fig_002a.png,,
 fig_002b,fig_002,Burial assemblage diagram,,,,,,,,,Postgate 1997,,Image;StillImage,image/png,,,,image,/objects/fig_002b.png,/objects/fig_002b.png,/objects/fig_002b.png,,
 fig_003,,Repaired figurine,,,,,,,,,,,,,,,,multiple,,,,,
